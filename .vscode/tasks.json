@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/StringCompression/StringCompression.csproj"
+                "${workspaceFolder}/LeftRotate/LeftRotate.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
