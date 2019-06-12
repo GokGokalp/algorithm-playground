@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/LeftRotate/LeftRotate.csproj"
+                "${workspaceFolder}/ArrayComparison/ArrayComparison.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
