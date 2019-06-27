@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/ArrayComparison/ArrayComparison.csproj"
+                "${workspaceFolder}/AnagramDetection/AnagramDetection.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
