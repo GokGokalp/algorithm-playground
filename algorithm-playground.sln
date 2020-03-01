@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayComparison", "ArrayCom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnagramDetection", "AnagramDetection\AnagramDetection.csproj", "{0D635355-2D3B-43BF-908F-9761960F2D32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsoluteDifference", "AbsoluteDifference\AbsoluteDifference.csproj", "{3352C3DC-E940-4E62-921B-5FC1DE9AF04D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{0D635355-2D3B-43BF-908F-9761960F2D32}.Release|x64.Build.0 = Release|Any CPU
 		{0D635355-2D3B-43BF-908F-9761960F2D32}.Release|x86.ActiveCfg = Release|Any CPU
 		{0D635355-2D3B-43BF-908F-9761960F2D32}.Release|x86.Build.0 = Release|Any CPU
+		{3352C3DC-E940-4E62-921B-5FC1DE9AF04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3352C3DC-E940-4E62-921B-5FC1DE9AF04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3352C3DC-E940-4E62-921B-5FC1DE9AF04D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3352C3DC-E940-4E62-921B-5FC1DE9AF04D}.Debug|x64.Build.0 = Debug|Any CPU
+		{3352C3DC-E940-4E62-921B-5FC1DE9AF04D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3352C3DC-E940-4E62-921B-5FC1DE9AF04D}.Debug|x86.Build.0 = Debug|Any CPU
+		{3352C3DC-E940-4E62-921B-5FC1DE9AF04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3352C3DC-E940-4E62-921B-5FC1DE9AF04D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3352C3DC-E940-4E62-921B-5FC1DE9AF04D}.Release|x64.ActiveCfg = Release|Any CPU
+		{3352C3DC-E940-4E62-921B-5FC1DE9AF04D}.Release|x64.Build.0 = Release|Any CPU
+		{3352C3DC-E940-4E62-921B-5FC1DE9AF04D}.Release|x86.ActiveCfg = Release|Any CPU
+		{3352C3DC-E940-4E62-921B-5FC1DE9AF04D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
